@@ -1,0 +1,5 @@
+keyboard
+openai
+pyttsx3
+SpeechRecognition
+pyautogui
